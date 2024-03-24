@@ -7,7 +7,7 @@ import fs from 'fs'
 //OwnerShip
 global.owner = [
   [process.env.OWNER_NUMBER || '254102074064', process.env.OWNER_NAME || '𝐃𝐞𝐯 𝐃𝐫𝐞𝐱', true],
-  ['919637987574', '𝐃𝐑𝐄𝐗 𝐌𝐎𝐒𝐄', true]
+  ['254102074064', '𝐃𝐑𝐄𝐗 𝐌𝐎𝐒𝐄', true]
 ]
 global.mods = []
 global.prems = []
@@ -45,8 +45,8 @@ global.bug = '*!! Sorry 💢 !!*\nSomething went wrong 🌋'
 global.stop = '*!! 🎭 Unfortunately 💔 !!*\nBot system is not Responding 🙃'
 
 //TimeLines
-global.botdate = `*⫹⫺ Date:*  ${moment.tz('Asia/Kolkata').format('DD/MM/YY')}`
-global.bottime = `*⫹⫺ Time:* ${moment.tz('Asia/Kolkata').format('HH:mm:ss')}`
+global.botdate = `*⫹⫺ Date:*  ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}`
+global.bottime = `*⫹⫺ Time:* ${moment.tz('Africa/Nairobi').format('HH:mm:ss')}`
 
 //Hosting Management
 global.serverHost = 1
