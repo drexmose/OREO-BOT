@@ -80,7 +80,7 @@
 # 🔥 MAIN SETUP
 
 1. Fork The OREO-BOT Repository 
-<a href="https://github.com/shizothetechie/OREO-BOT/fork"><img title="OREO BOT" src="https://img.shields.io/badge/FORK OREO BOT-h?color=orange&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/drexmose/OREO-BOT/fork"><img title="OREO BOT" src="https://img.shields.io/badge/FORK OREO BOT-h?color=orange&style=for-the-badge&logo=stackshare"></a>
 
 
 
@@ -116,7 +116,7 @@
 
 ```
 
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install yarn && pkg install imagemagick -y && git clone https://github.com/shizothetech/oreo-bot.git && cd oreo-bot && yarn install && node .
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install yarn && pkg install imagemagick -y && git clone https://github.com/drexmose/oreo-bot.git && cd oreo-bot && yarn install && node .
 
 ```
 
@@ -154,7 +154,7 @@ cd oreo-bot && node .
 
 
 ## `Main Dev` 
-<a href="https://github.com/shizothetechie"><img src="https://github.com/shizothetechie.png" width="100" height="100" alt="ShizoDevs"/></a>
+<a href="https://github.com/drexmose"><img src="https://github.com/drexmose.png" width="100" height="100" alt="drexmose"/></a>
   
 `OREO-BOT - By Shizo The Techie`
 
